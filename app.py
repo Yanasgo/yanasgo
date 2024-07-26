@@ -7,4 +7,4 @@ name = st.text_input("Enter your name:")
 
 #Display the name entered by the user
 if name:
-    st.write(f"Hello, {name}! Welcome to the app.")
+    st.write{name}! Welcome to the app.")
